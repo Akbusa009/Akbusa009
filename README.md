@@ -1,4 +1,3 @@
-![Header](https://github.com/Akbusa009/Akshaybusa009/assets/146056552/cb293261-55e2-40ec-9e22-03fae210f680)
 <h1 align="center">Hi 👋, I'm Akshay Busa</h1>
 <h3 align="center">Full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
